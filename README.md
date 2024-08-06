@@ -1,8 +1,8 @@
-# React + Vite
+Learning Objectives
+After this lab, learners will have demonstrated the ability to:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use create-react-app to make a pre-configured React application.
+Use the useEffect React hook.
+Implement the lifting state pattern in React.
+Bind React components to user input elements.
+Make external API requests within a React application.
